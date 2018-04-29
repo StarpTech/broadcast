@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ericpauley/broadcast"
+	"github.com/starptech/broadcast"
 )
 
 func BenchmarkNSubscribers1MessageBroadcast(bench *testing.B) {
